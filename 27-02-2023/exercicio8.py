@@ -18,18 +18,18 @@ numero = int(input("Por favor digite um número inteiro de 1 a 7 para vermos o d
 if numero < 1 and numero > 7:
     print("Número Inválido!!!\n")
 elif numero == 1:
-    print(f'Você digitou: {numero} , que corresnpode à Domingo !')
+    print(f'Você digitou: {numero} , que corresponde à Domingo !')
 elif numero == 2:
-    print(f'Você digitou: {numero} , que corresnpode à Segunda-feira !')
+    print(f'Você digitou: {numero} , que corresponde à Segunda-feira !')
 elif numero == 3:
-    print(f'Você digitou: {numero} , que corresnpode à Terça-feira !')
+    print(f'Você digitou: {numero} , que corresponde à Terça-feira !')
 elif numero == 4:
-    print(f'Você digitou: {numero} , que corresnpode à Quarta-feira !')
+    print(f'Você digitou: {numero} , que corresponde à Quarta-feira !')
 elif numero == 5:
-    print(f'Você digitou: {numero} , que corresnpode à Quinta-feira !')
+    print(f'Você digitou: {numero} , que corresponde à Quinta-feira !')
 elif numero == 6:
-    print(f'Você digitou: {numero} , que corresnpode à Sexta-feiraaaa!!!')
+    print(f'Você digitou: {numero} , que corresponde à Sexta-feiraaaa!!!')
 else: 
-    print(f'Você digitou: {numero} , que corresnpode à Sabadão !!!')
+    print(f'Você digitou: {numero} , que corresponde à Sabadão !!!')
 
 print("...FIM...")
