@@ -11,4 +11,5 @@ elif idade >= 11 and idade <=13:
     print(f'Sua categoria é: Juvenil A')
 elif idade >= 14 and idade <=17:
     print(f'Sua categoria é: Juvenil B')
-else: print("Você está classificado na categoria Sênior!! Boa sorte!")
+else: 
+    print("Você está classificado na categoria Sênior!! Boa sorte!")
