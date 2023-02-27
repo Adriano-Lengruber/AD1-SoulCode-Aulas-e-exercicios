@@ -13,7 +13,7 @@ com esse número.
 7 - Sábado
 '''
 
-numero = int(input("Por favor dogote um número inteiro de 1 a 7 para vermos o dia da semana correspondente: "))
+numero = int(input("Por favor digite um número inteiro de 1 a 7 para vermos o dia da semana correspondente: "))
 
 if numero < 1 and numero > 7:
     print("Número Inválido!!!\n")
