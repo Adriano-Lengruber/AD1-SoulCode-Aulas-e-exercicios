@@ -23,7 +23,7 @@ peso = float(input("Por favor, digite quantos kilos você tem: "))
 ml = 20
 gotas = 0
 
-if idade >= 12 and peso < 60:
+if idade >= 12 and peso >= 60:
     gotas = 875/ml
     print(f'Para sua idade de {idade} anos e para seu peso: {peso}Kg, deverá tomar {gotas} gotas 875mg! ')
 
@@ -49,3 +49,8 @@ elif idade < 12 and peso >= 30.1 :
 
 else:
     print("Dados Incorretos")
+
+
+'''
+Código com erros de enunciado, farei a correção ainda...
+'''
